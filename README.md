@@ -1,4 +1,4 @@
-          How to Use
+                                                      How to Use
 
 Download the executable on your pc and the apk on your phone from [here](https://github.com/branxys/GamepadRelay/releases/latest) 
 
@@ -12,7 +12,7 @@ Open the app on your phone, click find pc and everything should run fine
 
 If you have root, you can use the app while the screen is turned off.
 
-          COMMON ERRORS
+                                                      COMMON ERRORS
 
 If the app on android shows "no pc found", run this command in command prompt (administrator)
 
