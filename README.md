@@ -1,4 +1,7 @@
-                                                      How to Use
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                        How to Use
+
+*REQUIREMENTS*: Python, ViGEmBus driver
 
 Download the executable on your pc and the apk on your phone from [here](https://github.com/branxys/GamepadRelay/releases/latest) 
 
