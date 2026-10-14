@@ -19,7 +19,7 @@ Connect a controller to your Android phone and play PC games with it as a virtua
 
 *REQUIREMENTS*: [ViGEmBus driver](https://github.com/nefarius/ViGEmBus/releases/download/v1.22.0/ViGEmBus_1.22.0_x64_x86_arm64.exe)
 
-1: Download the executable on your pc and the apk on your phone from the latest release [(here)](https://github.com/branxys/GamepadRelay/releases/latest) 
+1: Download the executable on your pc and the apk on your phone from  [the latest release](https://github.com/branxys/GamepadRelay/releases/latest) 
 
 2: Open the .exe on your pc and it will start listening immediately
 
