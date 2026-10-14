@@ -27,7 +27,9 @@ Connect a controller to your Android phone and play PC games with it as a virtua
 
 4: Connect the bluetooth gamepad to your phone
 
-5: Open the app on your phone, click find pc and everything should run fine
+5: Open the app on your phone and click "find pc"
+
+6: Click on Start relay and everything should work fine.
 
 If you have root, you can use the app while the screen is turned off.
 
