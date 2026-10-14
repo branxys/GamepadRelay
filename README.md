@@ -2,7 +2,7 @@
 
 # 🎮 GamepadRelay
 
-### Your phone's Bluetooth controller, on your PC. Over Wi-Fi.
+### Your phone's Bluetooth controllers, on your PC. Over Wi-Fi.
 
 Connect a controller to your Android phone and play PC games with it as a virtual Xbox 360 controller. Works with the screen off on rooted phones.
 
