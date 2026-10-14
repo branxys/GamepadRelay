@@ -25,7 +25,7 @@ Connect a controller to your Android phone and play PC games with it as a virtua
 
 3: Install the .apk on your phone
 
-4: Connect the bluetooth gamepad to your phone
+4: Connect the Bluetooth gamepad to your phone
 
 5: Open the app on your phone and click "find pc"
 
